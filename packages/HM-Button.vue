@@ -1,5 +1,5 @@
 <template>
-  <button><slot>888</slot></button>
+  <button><slot>测试按钮0.1.5</slot></button>
 </template>
 <script setup>
 import { ref, reactive, defineExpose, nextTick } from "vue";
